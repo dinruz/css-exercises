@@ -1,7 +1,7 @@
 
 # Task completed; 15/05/2025
-All three methods implemented as instructed.
-Desired outcomed accomplished. 
+All three methods implemented as instructed.Desired outcomed accomplished. 
+[Watch Demo] (https://dinruz.github.io/css-exercises/foundations/intro-to-css/01-css-methods/)
 
 # Methods for Adding CSS
 In this exercise, you're going to practice adding CSS to an HTML file using all three methods: external CSS, internal CSS, and inline CSS. You should only be using type selectors for this exercise when adding styles via the external and internal methods. You should also use keywords for colors (e.g. "blue") instead of using RGB or HEX values.
