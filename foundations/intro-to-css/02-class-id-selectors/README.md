@@ -1,5 +1,6 @@
 # Task completed; 16/05/2025
 All conditions are met. Desired outcome accomplished.
+[Watch Demo](https://dinruz.github.io/css-exercises/foundations/intro-to-css/02-class-id-selectors/)
 
 # Class and ID Selectors
 Snowing how to add class and ID attributes to HTML elements, as well as use their respective selectors, is invaluable. It's important to practice using them.
