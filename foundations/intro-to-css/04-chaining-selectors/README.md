@@ -1,3 +1,8 @@
+# Exercise completed, 16/05/2025
+All conditions are met. Desired outcome accomplished. 
+[Watch Demo](https://dinruz.github.io/css-exercises/foundations/intro-to-css/04-chaining-selectors)
+
+
 # Chaining Selectors
 
 Credits for the images in this exercise go to [Katho Mutodo](https://linktr.ee/photobykatho_) and [Andrea Piacquadio](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels).
