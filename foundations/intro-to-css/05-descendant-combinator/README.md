@@ -1,4 +1,9 @@
-# Descendant Combinator
+# Excercisee completed, 16.05.2025.
+All conditions are met. Desired outcome accomplished. 
+[Watch Demo](https://dinruz.github.io/css-exercises/foundations/intro-to-css/05-descendant-combinator)
+
+
+ Descendant Combinator
 Understanding how combinators work can become a lot easier when you start playing around with them and see what exactly is affected by them versus what isn't.
 
 The goal of this exercise is to apply styles to elements that are descendants of another element, while leaving elements that *aren't* descendants of that element unstyled.
