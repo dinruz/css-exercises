@@ -1,4 +1,4 @@
-# Excercisee completed, 16.05.2025.
+# Excercise completed, 16.05.2025.
 All conditions are met. Desired outcome accomplished. 
 [Watch Demo](https://dinruz.github.io/css-exercises/foundations/intro-to-css/05-descendant-combinator)
 
