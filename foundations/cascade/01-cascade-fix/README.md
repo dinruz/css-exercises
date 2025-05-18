@@ -1,7 +1,7 @@
 # Exercise completed, 17.05.2025.
 All conditions are met-changed selectors in CSS, no changes in HTML code.
 Desired outcome accomplished. 
-[Watch Demo](https://dinruz.github.io/css-exercises/foundations/intro-to-css/01-cascade-fix/)
+[Watch Demo](https://dinruz.github.io/css-exercises/foundations/cascade/01-cascade-fix/)
 
 # CSS Methods
 
