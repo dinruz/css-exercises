@@ -1,3 +1,8 @@
+# Exercise completed, 17.05.2025.
+All conditions are met-changed selectors in CSS, no changes in HTML code.
+Desired outcome accomplished. 
+[Watch Demo](https://dinruz.github.io/css-exercises/foundations/intro-to-css/01-cascade-fix/)
+
 # CSS Methods
 
 This next exercise for CSS Foundations is going to give you a closer look at the cascade, in particular specificity and rule order. Both the HTML and CSS files are filled out for you, so instead of adding rules yourself, you will simply be editing what is provided.
