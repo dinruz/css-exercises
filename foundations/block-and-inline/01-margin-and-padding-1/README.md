@@ -1,7 +1,6 @@
 # Exercise completed, 21.05.2025.
 
-All conditions are met-changed selectors in CSS, no changes in HTML code.
-Desired outcome accomplished. 
+All conditions are met.Desired outcome accomplished. 
 [Watch Demo](https://dinruz.github.io/css-exercises/foundations/block-and-inline/01-margin-and-padding-1/)
 
 # Margin and Padding practice
