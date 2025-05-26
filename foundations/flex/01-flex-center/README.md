@@ -1,3 +1,7 @@
+# Exercise completed, 27/05/2025
+All conditions are met. Desired outcome accomplished. 
+[Watch Demo](https://dinruz.github.io/css-exercises/foundations/flex/01-flex-center/)
+
 # CENTER THIS DIV
 This one is simple, but it's something that you'll want to do ALL THE TIME.  Might as well get it out of the way now.
 
