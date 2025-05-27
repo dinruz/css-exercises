@@ -1,6 +1,6 @@
 # Exercise completed, 27/05/2025
 All conditions are met. Desired outcome accomplished. 
-[Watch Demo](https://dinruz.github.io/css-exercises/foundations/flex/02-flex-center/)
+[Watch Demo](https://dinruz.github.io/css-exercises/foundations/flex/02-flex-header/)
 
 # A Basic Header
 
