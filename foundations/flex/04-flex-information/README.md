@@ -1,4 +1,8 @@
-# A very common website feature
+# Exercise completed, 27/05/2025
+All conditions are met. Desired outcome accomplished. 
+[Watch Demo](https://dinruz.github.io/css-exercises/foundations/flex/04-flex-information)
+
+ # A very common website feature
 
 The goal of this exercise is to recreate a section that is found on many informational websites.
 
