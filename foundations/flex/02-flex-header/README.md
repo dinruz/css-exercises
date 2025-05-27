@@ -1,3 +1,7 @@
+# Exercise completed, 27/05/2025
+All conditions are met. Desired outcome accomplished. 
+[Watch Demo](https://dinruz.github.io/css-exercises/foundations/flex/02-flex-center/)
+
 # A Basic Header
 
 Use flexbox rules to create this very common webpage header style. The benefit to using flex here is that everything should be _flexible_. Check out the two screenshots below to get an idea of how it should scale with your screen. Besides flex rules, you'll also want to add some rules for margin and padding. (Hint: `ul`s have some default margin/padding that you will need to deal with.)
