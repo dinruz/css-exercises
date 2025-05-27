@@ -1,3 +1,8 @@
+# Exercise completed, 27/05/2025
+All conditions are met. Desired outcome accomplished.
+[Watch Demo](https://dinruz.github.io/css-exercises/foundations/flex/03-flex-header-2/)
+
+
 # Another common header style
 
 We're starting to sneak in a little more CSS that you haven't seen yet. Don't worry about this for now; we just want things to look a little bit prettier, and this CSS will not interfere with your task.
