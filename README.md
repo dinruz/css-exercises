@@ -13,7 +13,10 @@ These exercises consist of a series of CSS-related tasks intended to complement 
         - [Cascade](#cascade)
         - [Flexbox](#flexbox)
     - [Intermediate Exercises](#intermediate-exercises)
+        - [Advanced Grid](#advanced-grid)
+        - [Positioning Grid](#positioning-grid)
     - [Advanced Exercises](#advanced-exercises)
+        - [Interactive Components](#interactive-components)
 - [Instructions from TOP](#instructions-from-TOP)
     - [Contributing](#contributing)
     - [How To Use These Exercises](#how-to-use-these-exercises)
@@ -27,7 +30,7 @@ These exercises consist of a series of CSS-related tasks intended to complement 
 <summary><strong>Foundations Exercises ✅</strong></summary>
 
 <details>
-<summary>### Intro to CSS</summary>
+<summary>Intro to CSS</summary>
 
 <details>
 <summary><strong>Exercise 1: CSS Methods</strong></summary>
@@ -119,7 +122,7 @@ These exercises consist of a series of CSS-related tasks intended to complement 
 ---
 
 <details>
-<summary>### Block and Inline</summary>
+<summary>Block and Inline</summary>
 
 <details>
 <summary><strong>Exercise 1: Margin and Padding 01</strong></summary>
@@ -161,7 +164,7 @@ These exercises consist of a series of CSS-related tasks intended to complement 
 ---
 
 <details>
-<summary>### Cascade</summary>
+<summary>Cascade</summary>
 
 <details>
 <summary><strong>Exercise 1: Cascade Fix</strong></summary>
@@ -185,7 +188,7 @@ These exercises consist of a series of CSS-related tasks intended to complement 
 ---
 
 <details>
-<summary>### Flexbox</summary>
+<summary>Flexbox</summary>
 
 <details>
 <summary><strong>Exercise 1: Flex Center</strong></summary>
@@ -321,7 +324,7 @@ These exercises consist of a series of CSS-related tasks intended to complement 
 <summary><strong>Intermediate Exercises ⏳</strong></summary>
 
 <details>
-<summary>### Advanced Grid</summary>
+<summary>Advanced Grid</summary>
 
 <details>
 <summary><strong>Exercise 1: Responsive Holy Grail</strong></summary>
@@ -330,8 +333,8 @@ These exercises consist of a series of CSS-related tasks intended to complement 
 [README with instructions](./intermediate/advanced-grid/01-responsive-holy-grail/README.md)
 
 #### My Solution:
-[index.html](./intermediate/advanced-grid/01-responsive-holy-grail/index.html)
-[style.css](./intermediate/advanced-grid/01-responsive-holy-grail/style.css)
+[index.html]()
+[style.css]()
 
 #### Watch Demo:
 [Watch Demo]()
@@ -347,8 +350,8 @@ These exercises consist of a series of CSS-related tasks intended to complement 
 [README with instructions](./intermediate/advanced-grid/02-holy-grail-mockup/README.md)
 
 #### My Solution:
-[index.html](./intermediate/advanced-grid/02-holy-grail-mockup/index.html)
-[style.css](./intermediate/advanced-grid/02-holy-grail-mockup/style.css)
+[index.html]()
+[style.css]()
 
 #### Watch Demo:
 [Watch Demo]()
@@ -360,7 +363,7 @@ These exercises consist of a series of CSS-related tasks intended to complement 
 </details>
 
 <details>
-<summary>### Positioning Grid</summary>
+<summary>Positioning Grid</summary>
 
 <details>
 <summary><strong>Exercise 1: The Holy Grail Layout with Grid</strong></summary>
@@ -369,8 +372,8 @@ These exercises consist of a series of CSS-related tasks intended to complement 
 [README with instructions](./intermediate/positioning-grid/the-holy-grail-layout-with-grid/README.md)
 
 #### My Solution:
-[index.html](./intermediate/positioning-grid/the-holy-grail-layout-with-grid/index.html)
-[style.css](./intermediate/positioning-grid/the-holy-grail-layout-with-grid/style.css)
+[index.html]()
+[style.css]()
 
 #### Watch Demo:
 [Watch Demo]()
@@ -389,7 +392,7 @@ These exercises consist of a series of CSS-related tasks intended to complement 
 <summary><strong>Advanced Exercises ⏳</strong></summary>
 
 <details>
-<summary>### Interactive Components</summary>
+<summary>Interactive Components</summary>
 
 <details>
 <summary><strong>Exercise 1: Button Hover Effects</strong></summary>
@@ -398,9 +401,9 @@ These exercises consist of a series of CSS-related tasks intended to complement 
 [README with instructions](./advanced/interactive-components/01-button-hover/README.md)
 
 #### My Solution:
-[index.html](./advanced/interactive-components/01-button-hover/index.html)
-[style.css](./advanced/interactive-components/01-button-hover/style.css)
-[script.js](./advanced/interactive-components/01-button-hover/script.js)
+[index.html]()
+[style.css]()
+[script.js]()
 
 #### Watch Demo:
 [Watch Demo]()
@@ -416,9 +419,9 @@ These exercises consist of a series of CSS-related tasks intended to complement 
 [README with instructions](./advanced/interactive-components/02-pop-up/README.md)
 
 #### My Solution:
-[index.html](./advanced/interactive-components/02-pop-up/index.html)
-[style.css](./advanced/interactive-components/02-pop-up/style.css)
-[script.js](./advanced/interactive-components/02-pop-up/script.js)
+[index.html]()
+[style.css]()
+[script.js]()
 
 #### Watch Demo:
 [Watch Demo]()
@@ -434,9 +437,9 @@ These exercises consist of a series of CSS-related tasks intended to complement 
 [README with instructions](./advanced/interactive-components/03-dropdown-menu/README.md)
 
 #### My Solution:
-[index.html](./advanced/interactive-components/03-dropdown-menu/index.html)
-[style.css](./advanced/interactive-components/03-dropdown-menu/style.css)
-[script.js](./advanced/interactive-components/03-dropdown-menu/script.js)
+[index.html]()
+[style.css]()
+[script.js]()
 
 #### Watch Demo:
 [Watch Demo]()
@@ -456,7 +459,7 @@ These exercises consist of a series of CSS-related tasks intended to complement 
 <details>
 <summary><strong>Contributing</strong></summary>
 
-If you have suggestions to improve an exercise, ideas for a new exercise, or notice an issue with an exercise, please feel free to open an issue after thoroughly reading our [contributing guide](https://github.com/TheOdinProject/.github/blob/main/CONTRIBUTING.md).
+- If you have suggestions to improve an exercise, ideas for a new exercise, or notice an issue with an exercise, please feel free to open an issue after thoroughly reading our [contributing guide](https://github.com/TheOdinProject/.github/blob/main/CONTRIBUTING.md).
 </details>
 
 <details>
@@ -483,6 +486,3 @@ If you have suggestions to improve an exercise, ideas for a new exercise, or not
 
 -   The official solutions put all changes at the _end_ of the CSS file, which may duplicate some selectors (e.g. there might be a `body {}` in the given CSS and another `body {}` in the solution). When you are working on an exercise, it is best practice to add your CSS to existing selectors instead of duplicating them at the end of the file. We're sacrificing this best practice in our official solutions to make it extra clear to you what things we changed to solve the exercise.
 -   Unless listed in the self-check section, do not worry about getting the exact pixel value for things like margin, padding and font size. These exercises are intended to test your knowledge of CSS, not your ability to guess that a screenshot is using `font: sans-serif bold 16px` or that the margin is _exactly_ `42px`.
--   You may need to add some elements to your HTML to get things into the right spot. (For the first few exercises, we make it explicit when this needs to happen.)
--   You may need to add more selectors to your CSS file. The first few exercises have almost everything already done for you, but as you progress, you'll find that you need to add more and more selectors to get the correct result.
-</details>
