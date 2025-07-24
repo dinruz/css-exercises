@@ -19,17 +19,17 @@ These exercises consist of a series of CSS-related tasks intended to complement 
         - [Interactive Components](#interactive-components)
 - [Instructions from TOP](#instructions-from-TOP)
     - [Contributing](#contributing)
-    - [How To Use These Exercises](#how-to-use-these-exercises)
+    - [How To Use These Exercises](#how-to-use-these-techniques)
     - [Some Hints](#some-hints)
 
 ---
 
 ## Exercises
 
-<details>
+<details open>
 <summary><strong>Foundations Exercises ✅</strong></summary>
 
-<details>
+<details open>
 <summary>Intro to CSS</summary>
 
 <details>
@@ -121,7 +121,7 @@ These exercises consist of a series of CSS-related tasks intended to complement 
 
 ---
 
-<details>
+<details open>
 <summary>Block and Inline</summary>
 
 <details>
@@ -163,7 +163,7 @@ These exercises consist of a series of CSS-related tasks intended to complement 
 
 ---
 
-<details>
+<details open>
 <summary>Cascade</summary>
 
 <details>
@@ -187,7 +187,7 @@ These exercises consist of a series of CSS-related tasks intended to complement 
 
 ---
 
-<details>
+<details open>
 <summary>Flexbox</summary>
 
 <details>
@@ -320,11 +320,9 @@ These exercises consist of a series of CSS-related tasks intended to complement 
 
 ---
 
-<details>
-<summary><strong>Intermediate Exercises ⏳</strong></summary>
+<details open> <summary><strong>Intermediate Exercises ⏳</strong></summary>
 
-<details>
-<summary>Advanced Grid</summary>
+<details open> <summary>Advanced Grid</summary>
 
 <details>
 <summary><strong>Exercise 1: Responsive Holy Grail</strong></summary>
@@ -362,8 +360,7 @@ These exercises consist of a series of CSS-related tasks intended to complement 
 
 </details>
 
-<details>
-<summary>Positioning Grid</summary>
+<details open> <summary>Positioning Grid</summary>
 
 <details>
 <summary><strong>Exercise 1: The Holy Grail Layout with Grid</strong></summary>
@@ -388,11 +385,9 @@ These exercises consist of a series of CSS-related tasks intended to complement 
 
 ---
 
-<details>
-<summary><strong>Advanced Exercises ⏳</strong></summary>
+<details open> <summary><strong>Advanced Exercises ⏳</strong></summary>
 
-<details>
-<summary>Interactive Components</summary>
+<details open> <summary>Interactive Components</summary>
 
 <details>
 <summary><strong>Exercise 1: Button Hover Effects</strong></summary>
@@ -456,17 +451,17 @@ These exercises consist of a series of CSS-related tasks intended to complement 
 
 ## Instructions from TOP
 
-<details>
+<details open>
 <summary><strong>Contributing</strong></summary>
 
 - If you have suggestions to improve an exercise, ideas for a new exercise, or notice an issue with an exercise, please feel free to open an issue after thoroughly reading our [contributing guide](https://github.com/TheOdinProject/.github/blob/main/CONTRIBUTING.md).
 </details>
 
-<details>
+<details open>
 <summary><strong>How To Use These Exercises</strong></summary>
 
 1.  Fork and clone this repository. To learn how to fork a repository, see the GitHub documentation on how to [fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
-    * Copies of repositories on your machine are called clones. If you need help cloning to your local environment, you can learn how from the GitHub documentation on [cloning a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
+    * Copies of repositories on your machine are called clones. If you need help cloning to your local environment, you can learn how from the GitHub documentation on [cloning a repository](https://docs.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
 2.  Go to an exercise directory and open the HTML file in a web browser. You can open the file directly or use something like VSCode's Live Server extension.
 3.  For each exercise, read the README thoroughly before starting any work.
     * Each README has a "Self Check" list. Use this to ensure you haven't missed any important details in your implementation.
@@ -481,8 +476,11 @@ These exercises consist of a series of CSS-related tasks intended to complement 
 </details>
 
 
-<details>
+<details open>
 <summary><strong>Some Hints</strong></summary>
 
 -   The official solutions put all changes at the _end_ of the CSS file, which may duplicate some selectors (e.g. there might be a `body {}` in the given CSS and another `body {}` in the solution). When you are working on an exercise, it is best practice to add your CSS to existing selectors instead of duplicating them at the end of the file. We're sacrificing this best practice in our official solutions to make it extra clear to you what things we changed to solve the exercise.
 -   Unless listed in the self-check section, do not worry about getting the exact pixel value for things like margin, padding and font size. These exercises are intended to test your knowledge of CSS, not your ability to guess that a screenshot is using `font: sans-serif bold 16px` or that the margin is _exactly_ `42px`.
+-   You may need to add some elements to your HTML to get things into the right spot. (For the first few exercises, we make it explicit when this needs to happen.)
+-   You may need to add more selectors to your CSS file. The first few exercises have almost everything already done for you, but as you progress, you'll find that you need to add more and more selectors to get the correct result.
+</details>
